@@ -16,4 +16,6 @@ Provide functionality to add, view, and retrieve files securely.
 Ensure the encryption key is securely generated and stored.
 
 # buy me a coffee: https://www.paypal.com/paypalme/CrazoPython
+![image](https://github.com/user-attachments/assets/a3709a1a-d71f-44b9-afd8-b09a020096ad)
+
 
